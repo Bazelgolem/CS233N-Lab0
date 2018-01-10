@@ -21,6 +21,7 @@ namespace TicTacToe
         const string COMPUTER_SYMBOL = "O";
         const string EMPTY = "";
 
+        //This is the size of the board
         const int SIZE = 5;
 
         // constants for the 2 diagonals
