@@ -323,7 +323,7 @@
             this.Controls.Add(this.card3);
             this.Controls.Add(this.card2);
             this.Controls.Add(this.card1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "boardForm";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.boardForm_Load);
